@@ -1,0 +1,1 @@
+docker run -d -p 1433:1433 --name %1 -e sa_password=mySuperSecurePasword1@# -e ACCEPT_EULA=Y -v "C:\User/:C:\User" -e attach_dbs="[{'dbName':'NORTHWND','dbFiles':['C:\\complus\\NORTHWND.MDF','C:\\complus\\NORTHWND.LDF']}]" microsoft/mssql-server-windows

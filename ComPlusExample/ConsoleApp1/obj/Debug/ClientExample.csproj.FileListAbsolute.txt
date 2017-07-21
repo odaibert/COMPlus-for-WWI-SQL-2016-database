@@ -1,0 +1,14 @@
+C:\Users\odaibert\Downloads\Creating a COM%2b Component with C%23 (1)\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\odaibert\Downloads\Creating a COM%2b Component with C%23 (1)\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\odaibert\Downloads\Creating a COM%2b Component with C%23 (1)\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\odaibert\Downloads\Creating a COM%2b Component with C%23 (1)\ConsoleApp1\obj\Debug\ClientExample.csprojResolveAssemblyReference.cache
+C:\Users\odaibert\Downloads\Creating a COM%2b Component with C%23 (1)\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\odaibert\Downloads\Creating a COM%2b Component with C%23 (1)\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\complus\ComPlusExample\ConsoleApp1\obj\Debug\ClientExample.csprojResolveAssemblyReference.cache
+C:\complus\ComPlusExample\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\complus\ComPlusExample\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\complus\ComPlusExample\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\complus\ComPlusExample\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\complus\ComPlusExample\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\complus\ComPlusExample\ConsoleApp1\bin\Debug\COMPlusDotNet.dll
+C:\complus\ComPlusExample\ConsoleApp1\bin\Debug\COMPlusDotNet.pdb
